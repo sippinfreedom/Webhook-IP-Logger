@@ -35,3 +35,4 @@ Accuracy (Miles): {$geoplugin->locationAccuracyRadius}
 Timezone: {$geoplugin->timezone}
 "
 ```
+credits to https://github.com/Elyasuuuuu
